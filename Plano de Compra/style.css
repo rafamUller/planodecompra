@@ -1,0 +1,313 @@
+body{
+  margin-top: -10px;
+}
+.areaQuadrado {
+    position: absolute;
+    width: 250px;
+    height: 800px;
+    background: #302e39;
+    border-radius: 20px;
+    padding-top: 0px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    padding-left: 40px;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .mensal{
+    position: relative;
+    margin-left: 30px;
+    color: rgb(223, 105, 2);
+  }
+
+  .preco{
+    margin-left: 30px;
+    color: white;
+    font-size: 25px;
+  }
+
+  .especificacao{
+    margin-left: 30px;
+    color : #16cca8;
+    font-size: 18px;
+  }
+  .especificacao-2{
+    margin-left: 30px;
+    color: white;
+    font-size: 18px;
+  }
+  .div{
+    color: white;
+  }
+
+  button{
+    background: rgb(223, 105, 2);
+	color: white;
+	border-radius: 10px ;
+    border-color: none;
+	height: 50px;
+	width: 250px;
+	font: 15px arial,sans-serif;
+	text-shadow: none;
+  }
+
+ button:hover {
+	background: #16cca8;;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px #eee;
+	text-shadow: none;
+}
+
+.info-1{
+  display: flex;
+}
+
+.info-1 i{
+  color: #16cca8;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.info-1 h1{
+  color: white;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-right: 10px;
+  font-weight:lighter;
+}
+
+.info-2{
+  display: flex;
+}
+
+.info-2 i{
+  color: #16cca8;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.info-2 h1{
+  color: white;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-right: 10px;
+  font-weight:lighter;
+}
+
+.info-3{
+  display: flex;
+}
+
+.info-3 i{
+  color: #16cca8;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.info-3 h1{
+  color: white;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-right: 10px;
+  font-weight:lighter;
+}
+
+.info-4{
+  display: flex;
+}
+
+.info-4 i{
+  color: #666;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.info-4 h1{
+  color: white;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-right: 10px;
+  font-weight:lighter;
+}
+
+.info-5{
+  display: flex;
+}
+
+.info-5 i{
+  color: #666;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.info-5 h1{
+  color: white;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-right: 10px;
+  font-weight:lighter;
+}
+
+.areaQuadrado {
+    position: absolute;
+    width: 250px;
+    height: 800px;
+    background: #302e39;
+    border-radius: 20px;
+    padding: 40px;
+    margin-top: 30px;
+    justify-content: center;
+  }
+
+  .mensal{
+    position: relative;
+    margin-left: 30px;
+    color: rgb(223, 105, 2);
+  }
+  .mensal h1{
+    margin-top: 30px;
+  }
+
+  .preco{
+    margin-left: 30px;
+    color: white;
+    font-size: 25px;
+  }
+
+  .especificacao{
+    margin-left: 30px;
+    color : #16cca8;
+    font-size: 18px;
+  }
+  .especificacao-2{
+    margin-left: 30px;
+    color: white;
+    font-size: 18px;
+  }
+  .div{
+    color: white;
+  }
+
+  button{
+    background: rgb(223, 105, 2);
+	color: white;
+	border-radius: 10px ;
+    border-color: none;
+	height: 50px;
+	width: 250px;
+	font: 15px arial,sans-serif;
+	text-shadow: none;
+  }
+
+ button:hover {
+	background: #16cca8;;
+	color: #fff;
+	border: 1px solid #eee;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px #eee;
+	text-shadow: none;
+}
+
+.info-1{
+  display: flex;
+}
+
+.info-1 i{
+  color: #16cca8;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.info-1 h1{
+  color: white;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-right: 10px;
+  font-weight:lighter;
+}
+
+.info-2{
+  display: flex;
+}
+
+.info-2 i{
+  color: #16cca8;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.info-2 h1{
+  color: white;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-right: 10px;
+  font-weight:lighter;
+}
+
+.info-3{
+  display: flex;
+}
+
+.info-3 i{
+  color: #16cca8;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.info-3 h1{
+  color: white;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-right: 10px;
+  font-weight:lighter;
+}
+
+.info-4{
+  display: flex;
+}
+
+.info-4 i{
+  color: #666;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.info-4 h1{
+  color: white;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-right: 10px;
+  font-weight:lighter;
+}
+
+.info-5{
+  display: flex;
+}
+
+.info-5 i{
+  color: #666;
+  font-size: 40px;
+  margin-top: 20px;
+  margin-right: 10px;
+}
+
+.info-5 h1{
+  color: white;
+  font-size: 20px;
+  margin-top: 30px;
+  margin-right: 10px;
+  font-weight:lighter;
+}
